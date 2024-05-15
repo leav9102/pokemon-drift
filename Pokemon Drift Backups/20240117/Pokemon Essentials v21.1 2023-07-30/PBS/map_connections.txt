@@ -1,0 +1,10 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Virona Town (2) - Arborvista Town (5)
+2,West,23,5,East,0
+# Route 101 (9) - Arborvista Town (5)
+9,West,0,5,East,12
+# Route 101 (9) - Virona Town (2)
+9,North,0,2,South,0
+# Arborvista Town (5) - Arborvista Town (6)
+5,0,0,6,62,57

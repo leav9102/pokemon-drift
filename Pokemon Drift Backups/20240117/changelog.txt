@@ -1,0 +1,4 @@
+12/28 - Added indoors for Home and Lab, Began Starters
+12/30 - Finished starter Pokemon balls and added Shiny compatability
+01/02/24 - Many changes to gen 4 tileset (not perfect), tried to replicate Arborvista Town, and replaced boy sprite with HGSS
+1/16/24 - Finished Roman and Culligan house interiors, added Professor Lenora and began starter selection event

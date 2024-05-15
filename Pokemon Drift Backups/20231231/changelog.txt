@@ -1,0 +1,2 @@
+12/28 - Added indoors for Home and Lab, Began Starters
+12/30 - Finished starter Pokemon balls and added Shiny compatability

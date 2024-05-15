@@ -1,0 +1,38 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 3000
+StartItemStorage = POTION
+Home = 3,7,5,8
+StorageCreator = Bill
+WildBattleBGM = Battle wild
+TrainerBattleBGM = Battle trainer
+WildVictoryBGM = Battle victory wild
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red_01
+RunCharset = boy_run_01
+CycleCharset = boy_bike_01
+SurfCharset = boy_surf_01
+DiveCharset = boy_surf_01
+FishCharset = boy_fish_offset_01
+SurfFishCharset = boy_fish_offset_01
+Home = 5,12,31,2
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_Leaf
+WalkCharset = NPC_201_Dawn
+RunCharset = NPC_201_Dawn_run
+CycleCharset = NPC_201_Dawn_bike
+SurfCharset = NPC_201_Dawn_surf
+DiveCharset = NPC_201_Dawn_surf
+FishCharset = NPC_202_Dawn_fishing
+SurfFishCharset = NPC_202_Dawn_fishing
+Home = 5,12,32,2
+#-------------------------------
+[3]
+TrainerType = PROFESSOR

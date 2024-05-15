@@ -1,0 +1,6 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Virona Town (2) - Arborvista Town (5)
+2,0,0,5,86,12
+# Arborvista Town (5) - Arborvista Town (6)
+5,43,0,6,0,0

@@ -1,0 +1,14 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+[RIVAL1,Roman]
+LoseText = You got lucky. I'm better than both of you.
+Pokemon = SNIVY,6
+#-------------------------------
+[RIVAL1,Roman,1]
+LoseText = You got lucky. I'm better than both of you.
+Pokemon = CHIMCHAR,6
+#-------------------------------
+[RIVAL1,Roman,2]
+LoseText = You got lucky. I'm better than both of you.
+Pokemon = FROAKIE,6
+#-------------------------------
+
